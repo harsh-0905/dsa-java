@@ -22,6 +22,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## String
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
