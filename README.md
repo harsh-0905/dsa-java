@@ -78,6 +78,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harsh-0905/dsa-java/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harsh-0905/dsa-java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
