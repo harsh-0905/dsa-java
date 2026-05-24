@@ -26,6 +26,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harsh-0905/dsa-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -51,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
