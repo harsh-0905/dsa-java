@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
