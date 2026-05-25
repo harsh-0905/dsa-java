@@ -71,6 +71,7 @@
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -85,6 +86,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harsh-0905/dsa-java/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
+| [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harsh-0905/dsa-java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
