@@ -95,6 +95,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harsh-0905/dsa-java/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
+| [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harsh-0905/dsa-java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
