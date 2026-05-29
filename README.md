@@ -99,6 +99,7 @@
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/harsh-0905/dsa-java/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harsh-0905/dsa-java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
@@ -134,4 +135,5 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/harsh-0905/dsa-java/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
