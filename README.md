@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
