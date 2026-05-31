@@ -32,6 +32,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harsh-0905/dsa-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
@@ -75,6 +76,7 @@
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harsh-0905/dsa-java/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
