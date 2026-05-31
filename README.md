@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -109,6 +111,7 @@
 | [0020-valid-parentheses](https://github.com/harsh-0905/dsa-java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harsh-0905/dsa-java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/harsh-0905/dsa-java/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
@@ -147,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harsh-0905/dsa-java/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
