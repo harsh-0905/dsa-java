@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harsh-0905/dsa-java/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/harsh-0905/dsa-java/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
