@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
@@ -157,9 +159,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsh-0905/dsa-java/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
