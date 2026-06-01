@@ -25,6 +25,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/harsh-0905/dsa-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/harsh-0905/dsa-java/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
