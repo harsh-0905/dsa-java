@@ -13,6 +13,7 @@
 | [0012-integer-to-roman](https://github.com/harsh-0905/dsa-java/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
+| [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-0905/dsa-java/tree/master/0021-merge-two-sorted-lists) |
+| [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0058-length-of-last-word](https://github.com/harsh-0905/dsa-java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/harsh-0905/dsa-java/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
+| [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
