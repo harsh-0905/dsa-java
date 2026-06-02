@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/harsh-0905/dsa-java/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harsh-0905/dsa-java/tree/master/0012-integer-to-roman) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harsh-0905/dsa-java/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/harsh-0905/dsa-java/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/harsh-0905/dsa-java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harsh-0905/dsa-java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harsh-0905/dsa-java/tree/master/0058-length-of-last-word) |
