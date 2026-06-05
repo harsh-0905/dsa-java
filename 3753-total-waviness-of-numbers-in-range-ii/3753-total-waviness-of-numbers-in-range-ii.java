@@ -20,7 +20,7 @@ class Solution {
         return dp(0, 11, 11, true, 0)[1];
     }
 
-    // returns [count, waviness_sum]
+    
     private long[] dp(int pos, int pp, int prev, boolean tight, int placed) {
         if (pos == digits.length) return new long[]{1, 0};
         int ti = tight ? 1 : 0;
