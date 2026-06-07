@@ -45,6 +45,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harsh-0905/dsa-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harsh-0905/dsa-java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
@@ -64,6 +65,7 @@
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,4 +220,5 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
