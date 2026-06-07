@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-0905/dsa-java/tree/master/0021-merge-two-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -219,6 +221,15 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
