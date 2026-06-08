@@ -144,6 +144,7 @@
 | [0058-length-of-last-word](https://github.com/harsh-0905/dsa-java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/harsh-0905/dsa-java/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
+| [0214-shortest-palindrome](https://github.com/harsh-0905/dsa-java/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/harsh-0905/dsa-java/tree/master/0657-robot-return-to-origin) |
@@ -241,4 +242,13 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/harsh-0905/dsa-java/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/harsh-0905/dsa-java/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/harsh-0905/dsa-java/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
