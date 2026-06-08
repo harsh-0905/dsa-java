@@ -77,6 +77,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -139,6 +140,7 @@
 | [0012-integer-to-roman](https://github.com/harsh-0905/dsa-java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harsh-0905/dsa-java/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harsh-0905/dsa-java/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/harsh-0905/dsa-java/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
