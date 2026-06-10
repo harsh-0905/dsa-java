@@ -60,6 +60,7 @@
 | [3453-separate-squares-i](https://github.com/harsh-0905/dsa-java/tree/master/3453-separate-squares-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-0905/dsa-java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-0905/dsa-java/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Stack
 |  |
 | ------- |
@@ -253,4 +255,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/harsh-0905/dsa-java/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
