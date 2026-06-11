@@ -19,6 +19,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harsh-0905/dsa-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh-0905/dsa-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harsh-0905/dsa-java/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -220,10 +221,12 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
