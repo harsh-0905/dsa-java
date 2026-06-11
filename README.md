@@ -218,6 +218,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harsh-0905/dsa-java/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -225,15 +226,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harsh-0905/dsa-java/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harsh-0905/dsa-java/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harsh-0905/dsa-java/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
