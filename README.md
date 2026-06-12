@@ -20,6 +20,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harsh-0905/dsa-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh-0905/dsa-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harsh-0905/dsa-java/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -59,6 +60,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/harsh-0905/dsa-java/tree/master/3453-separate-squares-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-0905/dsa-java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -118,6 +120,7 @@
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh-0905/dsa-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/harsh-0905/dsa-java/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Ordered Set
@@ -223,12 +227,14 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harsh-0905/dsa-java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harsh-0905/dsa-java/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harsh-0905/dsa-java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh-0905/dsa-java/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
