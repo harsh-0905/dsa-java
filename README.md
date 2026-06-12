@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-0905/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harsh-0905/dsa-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/harsh-0905/dsa-java/tree/master/3453-separate-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harsh-0905/dsa-java/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-0905/dsa-java/tree/master/3689-maximum-total-subarray-value-i) |
@@ -79,6 +81,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh-0905/dsa-java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh-0905/dsa-java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harsh-0905/dsa-java/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh-0905/dsa-java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -275,5 +280,10 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
