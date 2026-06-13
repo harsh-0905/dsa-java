@@ -66,6 +66,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh-0905/dsa-java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harsh-0905/dsa-java/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/harsh-0905/dsa-java/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh-0905/dsa-java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh-0905/dsa-java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/harsh-0905/dsa-java/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh-0905/dsa-java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/harsh-0905/dsa-java/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
