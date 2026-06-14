@@ -43,6 +43,7 @@
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
+| [1200-minimum-absolute-difference](https://github.com/harsh-0905/dsa-java/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -114,6 +115,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
+| [1200-minimum-absolute-difference](https://github.com/harsh-0905/dsa-java/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harsh-0905/dsa-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
