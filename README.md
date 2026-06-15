@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/harsh-0905/dsa-java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harsh-0905/dsa-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
@@ -89,6 +90,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/harsh-0905/dsa-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
