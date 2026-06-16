@@ -60,6 +60,7 @@
 | [2540-minimum-common-value](https://github.com/harsh-0905/dsa-java/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/harsh-0905/dsa-java/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harsh-0905/dsa-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh-0905/dsa-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harsh-0905/dsa-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/harsh-0905/dsa-java/tree/master/3093-longest-common-suffix-queries) |
@@ -124,6 +125,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harsh-0905/dsa-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harsh-0905/dsa-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh-0905/dsa-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
@@ -237,6 +239,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/harsh-0905/dsa-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh-0905/dsa-java/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
