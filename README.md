@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harsh-0905/dsa-java/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harsh-0905/dsa-java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -34,6 +35,7 @@
 | [0002-add-two-numbers](https://github.com/harsh-0905/dsa-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-0905/dsa-java/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/harsh-0905/dsa-java/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh-0905/dsa-java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
@@ -140,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 | [1049-last-stone-weight-ii](https://github.com/harsh-0905/dsa-java/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/harsh-0905/dsa-java/tree/master/1871-jump-game-vii) |
@@ -307,4 +311,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harsh-0905/dsa-java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
