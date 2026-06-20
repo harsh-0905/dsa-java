@@ -22,6 +22,7 @@
 | [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh-0905/dsa-java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harsh-0905/dsa-java/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/harsh-0905/dsa-java/tree/master/1840-maximum-building-height) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/harsh-0905/dsa-java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh-0905/dsa-java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -56,6 +57,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh-0905/dsa-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/harsh-0905/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harsh-0905/dsa-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/harsh-0905/dsa-java/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harsh-0905/dsa-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
@@ -128,6 +130,7 @@
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/harsh-0905/dsa-java/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/harsh-0905/dsa-java/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/harsh-0905/dsa-java/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harsh-0905/dsa-java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/harsh-0905/dsa-java/tree/master/2126-destroying-asteroids) |
