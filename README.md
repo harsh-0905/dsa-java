@@ -46,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/harsh-0905/dsa-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/harsh-0905/dsa-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/harsh-0905/dsa-java/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
@@ -102,6 +103,7 @@
 | [0027-remove-element](https://github.com/harsh-0905/dsa-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh-0905/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harsh-0905/dsa-java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harsh-0905/dsa-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harsh-0905/dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/harsh-0905/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-0905/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harsh-0905/dsa-java/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/harsh-0905/dsa-java/tree/master/0561-array-partition) |
